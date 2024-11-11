@@ -1,0 +1,2 @@
+https://wago.tools/db2/
+https://wago.tools/db2/Creature?build=11.0.7.57409&page=1&sort[ID]=asc
