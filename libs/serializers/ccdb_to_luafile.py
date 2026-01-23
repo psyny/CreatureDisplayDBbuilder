@@ -1,5 +1,5 @@
 def ccdb_to_luafile(cddb, file_path):
-    with open(file_path, "w") as lua_file:
+    with open(file_path, "w", encoding="utf-8") as lua_file:
         # Write the initial Lua table structure
         lua_file.write("CreatureDisplayDBdb = {}\n")
 

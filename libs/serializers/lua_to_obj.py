@@ -29,8 +29,11 @@ def lua_to_obj(lua_file):
     # Remove trailing commas before a closing brace or bracket
     lua_str = re.sub(r',\s*([\]}])', r'\1', lua_str)    
 
+    # Remove implicit array indexing
+    lua_str = re.sub(r'\{\s*\{', r'{ "1": {', lua_str)    
+
     # DEBUG: save to file
-    #str_to_file(lua_str, "testfile.json")
+    #str_to_file(lua_str, lua_file + "_debug.json")
     
     try:
         json_obj = json.loads(lua_str)
