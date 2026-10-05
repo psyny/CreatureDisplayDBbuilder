@@ -35,7 +35,8 @@ def add_creature_data_to_db(db, name, zoneid, nids, dids):
                 zone_data_general["dids"][i].add(did)     
 
 
-def db_aggregator(dbs):
+# zone_resolver maps each recorded zone id to the zone id it's stored under (see uimap_loader_v1.create_zone_resolver)
+def db_aggregator(dbs, zone_resolver = None):
     aggdb = {}
 
     for db in dbs:
@@ -47,7 +48,9 @@ def db_aggregator(dbs):
         for cname, cdata in ids.items():
             for zone_id, zdata in cdata.get("zone", {}).items():                
                 nids = zdata["nids"]
-                dids = zdata["dids"]              
+                dids = zdata["dids"]
+                if zone_resolver:
+                    zone_id = zone_resolver(zone_id)
                 add_creature_data_to_db(aggdb, cname, zone_id, nids, dids)
 
     return aggdb

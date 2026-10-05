@@ -3,14 +3,16 @@ import glob
 from libs.serializers.wagocsv_to_obj import wagocsv_to_obj
 from modules.parsing_creature_data import add_creature_data_to_db
 
-dbloc = 'dbs/wago/v1/'
+dbloc_template = 'dbs/{flavor}/wago/v1/'
 
-def wago_loader_v1(filename = None):
+def wago_loader_v1(flavor, filename = None):
+    dbloc = dbloc_template.format(flavor=flavor)
+
     csv_files = []
     if filename != None:
         csv_files.append(dbloc + filename)
     else: 
-        csv_files = sorted(glob.glob(dbloc + '*.csv'))
+        csv_files = sorted(glob.glob(dbloc + 'Creature.*.csv'))
 
     dbs = []
 

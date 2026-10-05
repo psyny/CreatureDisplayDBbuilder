@@ -1,0 +1,1731 @@
+Name_lang,ID,ParentUiMapID,Type
+Durotar,1,12,3
+Burning Blade Coven,2,1,5
+Tiragarde Keep,3,1,5
+Tiragarde Keep,4,1,5
+Skull Rock,5,1,5
+Dustwind Cave,6,1,5
+Mulgore,7,12,3
+Palemane Rock,8,7,5
+The Venture Co. Mine,9,7,5
+Northern Barrens,10,12,3
+Wailing Caverns,11,10,5
+Kalimdor,12,947,2
+Eastern Kingdoms,13,947,2
+Arathi Highlands,14,13,3
+Badlands,15,13,3
+Uldaman,16,15,5
+Blasted Lands,17,13,3
+Tirisfal Glades,18,13,3
+Scarlet Monastery Entrance,19,18,5
+Keeper's Rest,20,18,5
+Silverpine Forest,21,13,3
+Western Plaguelands,22,13,3
+Eastern Plaguelands,23,13,3
+Light's Hope Chapel,24,23,5
+Hillsbrad Foothills,25,13,3
+The Hinterlands,26,13,3
+Dun Morogh,27,13,3
+Coldridge Pass,28,27,5
+The Grizzled Den,29,27,5
+New Tinkertown,30,27,5
+Gol'Bolar Quarry,31,27,5
+Searing Gorge,32,13,3
+Blackrock Mountain,33,36,5
+Blackrock Mountain,34,36,5
+Blackrock Mountain,35,32,5
+Burning Steppes,36,13,3
+Elwynn Forest,37,13,3
+Fargodeep Mine,38,37,5
+Fargodeep Mine,39,37,5
+Jasperlode Mine,40,37,5
+Dalaran,41,42,5
+Deadwind Pass,42,13,3
+The Master's Cellar,43,42,5
+The Master's Cellar,44,42,5
+The Master's Cellar,45,42,5
+Karazhan Catacombs,46,42,5
+Duskwood,47,13,3
+Loch Modan,48,13,3
+Redridge Mountains,49,13,3
+Northern Stranglethorn,50,224,3
+Swamp of Sorrows,51,13,3
+Westfall,52,13,3
+Gold Coast Quarry,53,52,5
+Jangolode Mine,54,52,5
+The Deadmines,55,52,5
+Wetlands,56,13,3
+Teldrassil,57,12,3
+Shadowthread Cave,58,57,5
+Fel Rock,59,57,5
+Ban'ethil Barrow Den,60,57,5
+Ban'ethil Barrow Den,61,57,5
+Darkshore,62,12,3
+Ashenvale,63,12,3
+Thousand Needles,64,12,3
+Stonetalon Mountains,65,12,3
+Desolace,66,12,3
+Maraudon,67,66,5
+Maraudon,68,66,5
+Feralas,69,12,3
+Dustwallow Marsh,70,12,3
+Tanaris,71,12,3
+The Noxious Lair,72,71,5
+The Gaping Chasm,73,71,5
+Caverns of Time,74,71,5
+Caverns of Time,75,71,5
+Azshara,76,12,3
+Felwood,77,12,3
+Un'Goro Crater,78,12,3
+The Slithering Scar,79,78,5
+Moonglade,80,12,3
+Silithus,81,12,3
+Twilight's Run,82,81,5
+Winterspring,83,12,3
+Stormwind City,84,13,3
+Orgrimmar,85,12,3
+Orgrimmar,86,85,6
+Ironforge,87,13,3
+Thunder Bluff,88,12,3
+Darnassus,89,12,3
+Undercity,90,13,3
+Alterac Valley,91,25,6
+Warsong Gulch,92,10,6
+Arathi Basin,93,14,6
+Eversong Woods,94,13,3
+Ghostlands,95,13,3
+Amani Catacombs,96,95,5
+Azuremyst Isle,97,12,3
+Tides' Hollow,98,97,5
+Stillpine Hold,99,97,5
+Hellfire Peninsula,100,101,3
+Outland,101,946,2
+Zangarmarsh,102,101,3
+The Exodar,103,12,3
+Shadowmoon Valley,104,101,3
+Blade's Edge Mountains,105,101,3
+Bloodmyst Isle,106,12,3
+Nagrand,107,101,3
+Terokkar Forest,108,101,3
+Netherstorm,109,101,3
+Silvermoon City,110,13,3
+Shattrath City,111,101,3
+Eye of the Storm,112,109,6
+Northrend,113,947,2
+Borean Tundra,114,113,3
+Dragonblight,115,113,3
+Grizzly Hills,116,113,3
+Howling Fjord,117,113,3
+Icecrown,118,113,3
+Sholazar Basin,119,113,3
+The Storm Peaks,120,113,3
+Zul'Drak,121,113,3
+Isle of Quel'Danas,122,13,3
+Wintergrasp,123,113,3
+Plaguelands: The Scarlet Enclave,124,23,6
+Dalaran,125,127,4
+Dalaran,126,127,4
+Crystalsong Forest,127,113,3
+Strand of the Ancients,128,115,6
+The Nexus,129,114,4
+The Culling of Stratholme,130,71,4
+The Culling of Stratholme,131,130,4
+Ahn'kahet: The Old Kingdom,132,115,4
+Utgarde Keep,133,117,4
+Utgarde Keep,134,117,4
+Utgarde Keep,135,117,4
+Utgarde Pinnacle,136,117,4
+Utgarde Pinnacle,137,117,4
+Halls of Lightning,138,120,4
+Halls of Lightning,139,120,4
+Halls of Stone,140,120,4
+The Eye of Eternity,141,114,4
+The Oculus,142,114,6
+The Oculus,143,114,4
+The Oculus,144,114,4
+The Oculus,145,114,4
+The Oculus,146,114,4
+Ulduar,147,120,4
+Ulduar,148,147,4
+Ulduar,149,147,4
+Ulduar,150,147,4
+Ulduar,151,147,4
+Ulduar,152,147,4
+Gundrak,153,121,6
+Gundrak,154,121,4
+The Obsidian Sanctum,155,115,6
+Vault of Archavon,156,123,4
+Azjol-Nerub,157,115,4
+Azjol-Nerub,158,115,4
+Azjol-Nerub,159,115,4
+Drak'Tharon Keep,160,121,4
+Drak'Tharon Keep,161,121,4
+Naxxramas,162,115,4
+Naxxramas,163,115,4
+Naxxramas,164,115,4
+Naxxramas,165,115,4
+Naxxramas,166,115,4
+Naxxramas,167,115,4
+The Violet Hold,168,125,4
+Isle of Conquest,169,118,6
+Hrothgar's Landing,170,113,3
+Trial of the Champion,171,118,4
+Trial of the Crusader,172,118,4
+Trial of the Crusader,173,118,4
+The Lost Isles,174,948,3
+Kaja'mite Cavern,175,174,5
+Volcanoth's Lair,176,174,5
+Gallywix Labor Mine,177,174,5
+Gallywix Labor Mine,178,174,5
+Gilneas,179,13,6
+Emberstone Mine,180,179,5
+Greymane Manor,181,179,5
+Greymane Manor,182,179,5
+The Forge of Souls,183,118,4
+Pit of Saron,184,118,6
+Halls of Reflection,185,118,4
+Icecrown Citadel,186,118,4
+Icecrown Citadel,187,118,4
+Icecrown Citadel,188,118,4
+Icecrown Citadel,189,118,4
+Icecrown Citadel,190,118,4
+Icecrown Citadel,191,118,4
+Icecrown Citadel,192,118,4
+Icecrown Citadel,193,118,4
+Kezan,194,948,3
+Kaja'mine,195,194,5
+Kaja'mine,196,194,5
+Kaja'mine,197,194,5
+Mount Hyjal,198,12,3
+Southern Barrens,199,12,3
+The Ruby Sanctum,200,115,6
+Kelp'thar Forest,201,203,3
+Gilneas City,202,179,3
+Vashj'ir,203,13,3
+Abyssal Depths,204,203,3
+Shimmering Expanse,205,203,3
+Twin Peaks,206,241,6
+Deepholm,207,948,3
+Twilight Depths,208,207,5
+Twilight Depths,209,207,5
+The Cape of Stranglethorn,210,224,3
+Ragefire Chasm,213,85,4
+Ruins of Gilneas,217,13,3
+Ruins of Gilneas City,218,217,6
+Zul'Farrak,219,71,6
+The Temple of Atal'Hakkar,220,51,4
+Blackfathom Deeps,221,63,4
+Blackfathom Deeps,222,63,4
+Blackfathom Deeps,223,63,4
+Stranglethorn Vale,224,13,3
+The Stockade,225,84,4
+Gnomeregan,226,27,4
+Gnomeregan,227,27,4
+Gnomeregan,228,27,4
+Gnomeregan,229,27,4
+Uldaman,230,15,4
+Uldaman,231,15,4
+Molten Core,232,36,4
+Zul'Gurub,233,50,6
+Dire Maul,234,69,6
+Dire Maul,235,69,4
+Dire Maul,236,69,4
+Dire Maul,237,69,4
+Dire Maul,238,69,4
+Dire Maul,239,69,4
+Dire Maul,240,69,4
+Twilight Highlands,241,13,3
+Blackrock Depths,242,32,4
+Blackrock Depths,243,32,4
+Tol Barad,244,13,3
+Tol Barad Peninsula,245,13,3
+The Shattered Halls,246,100,4
+Ruins of Ahn'Qiraj,247,81,6
+Onyxia's Lair,248,70,4
+Uldum,249,12,3
+Blackrock Spire,250,36,4
+Blackrock Spire,251,36,4
+Blackrock Spire,252,36,4
+Blackrock Spire,253,36,4
+Blackrock Spire,254,36,4
+Blackrock Spire,255,36,4
+Auchenai Crypts,256,108,4
+Auchenai Crypts,257,108,4
+Sethekk Halls,258,108,4
+Sethekk Halls,259,108,4
+Shadow Labyrinth,260,108,4
+The Blood Furnace,261,100,4
+The Underbog,262,102,4
+The Steamvault,263,102,4
+The Steamvault,264,102,4
+The Slave Pens,265,102,4
+The Botanica,266,109,4
+The Mechanar,267,109,4
+The Mechanar,268,109,4
+The Arcatraz,269,109,4
+The Arcatraz,270,109,4
+The Arcatraz,271,109,4
+Mana-Tombs,272,108,4
+The Black Morass,273,75,6
+Old Hillsbrad Foothills,274,75,6
+The Battle for Gilneas,275,179,6
+The Maelstrom,276,948,3
+Lost City of the Tol'vir,277,249,6
+Wailing Caverns,279,10,4
+Maraudon,280,66,4
+Maraudon,281,66,4
+Baradin Hold,282,244,4
+Blackrock Caverns,283,36,4
+Blackrock Caverns,284,36,4
+Blackwing Descent,285,36,4
+Blackwing Descent,286,36,4
+Blackwing Lair,287,36,4
+Blackwing Lair,288,36,4
+Blackwing Lair,289,36,4
+Blackwing Lair,290,36,4
+The Deadmines,291,52,4
+The Deadmines,292,52,4
+Grim Batol,293,241,4
+The Bastion of Twilight,294,241,4
+The Bastion of Twilight,295,241,4
+The Bastion of Twilight,296,241,4
+Halls of Origination,297,249,4
+Halls of Origination,298,249,4
+Halls of Origination,299,249,4
+Razorfen Downs,300,64,4
+Razorfen Kraul,301,199,4
+Scarlet Monastery,302,18,4
+Scarlet Monastery,303,18,4
+Scarlet Monastery,304,18,4
+Scarlet Monastery,305,18,4
+Legacy of Scholomance,306,22,4
+Legacy of Scholomance,307,22,4
+Legacy of Scholomance,308,22,4
+Legacy of Scholomance,309,22,4
+Shadowfang Keep,310,21,4
+Shadowfang Keep,311,21,4
+Shadowfang Keep,312,21,4
+Shadowfang Keep,313,21,4
+Shadowfang Keep,314,21,4
+Shadowfang Keep,315,21,4
+Shadowfang Keep,316,21,4
+Stratholme,317,23,4
+Stratholme,318,23,4
+Ahn'Qiraj,319,81,4
+Ahn'Qiraj,320,81,4
+Ahn'Qiraj,321,81,4
+Throne of the Tides,322,204,4
+Throne of the Tides,323,204,4
+The Stonecore,324,207,4
+The Vortex Pinnacle,325,249,4
+Ahn'Qiraj: The Fallen Kingdom,327,12,6
+Throne of the Four Winds,328,249,4
+Hyjal Summit,329,75,6
+Gruul's Lair,330,105,4
+Magtheridon's Lair,331,100,4
+Serpentshrine Cavern,332,102,4
+Zul'Aman,333,95,6
+Tempest Keep,334,109,4
+Sunwell Plateau,335,122,4
+Sunwell Plateau,336,335,4
+Zul'Gurub,337,50,6
+Molten Front,338,198,6
+Black Temple,339,104,4
+Black Temple,340,339,4
+Black Temple,341,339,4
+Black Temple,342,339,4
+Black Temple,343,339,4
+Black Temple,344,339,4
+Black Temple,345,339,4
+Black Temple,346,339,4
+Hellfire Ramparts,347,100,4
+Magisters' Terrace,348,122,4
+Magisters' Terrace,349,122,4
+Karazhan,350,42,4
+Karazhan,351,42,4
+Karazhan,352,42,4
+Karazhan,353,42,4
+Karazhan,354,42,4
+Karazhan,355,42,4
+Karazhan,356,42,4
+Karazhan,357,42,4
+Karazhan,358,42,4
+Karazhan,359,42,4
+Karazhan,360,42,4
+Karazhan,361,42,4
+Karazhan,362,42,4
+Karazhan,363,42,4
+Karazhan,364,42,4
+Karazhan,365,42,4
+Karazhan,366,42,4
+Firelands,367,198,4
+Firelands,368,367,4
+Firelands,369,367,4
+The Nexus,370,114,4
+The Jade Forest,371,424,3
+Greenstone Quarry,372,371,5
+Greenstone Quarry,373,371,5
+The Widow's Wail,374,371,5
+Oona Kagu,375,371,5
+Valley of the Four Winds,376,424,3
+Cavern of Endless Echoes,377,376,5
+The Wandering Isle,378,947,6
+Kun-Lai Summit,379,424,3
+Howlingwind Cavern,380,379,5
+Pranksters' Hollow,381,379,5
+Knucklethump Hole,382,379,5
+The Deeper,383,379,5
+The Deeper,384,379,5
+Tomb of Conquerors,385,379,5
+Ruins of Korune,386,379,5
+Ruins of Korune,387,379,5
+Townlong Steppes,388,424,3
+Niuzao Temple,389,388,5
+Vale of Eternal Blossoms,390,424,3
+Shrine of Two Moons,391,390,5
+Shrine of Two Moons,392,390,5
+Shrine of Seven Stars,393,390,5
+Shrine of Seven Stars,394,390,5
+Guo-Lai Halls,395,390,5
+Guo-Lai Halls,396,390,5
+Eye of the Storm,397,109,6
+Well of Eternity,398,71,6
+Hour of Twilight,399,71,4
+Hour of Twilight,400,399,4
+End Time,401,71,4
+End Time,402,401,4
+End Time,403,401,4
+End Time,404,401,4
+End Time,405,401,4
+End Time,406,401,4
+Darkmoon Island,407,947,6
+Darkmoon Island,408,407,4
+Dragon Soul,409,71,4
+Dragon Soul,410,409,4
+Dragon Soul,411,409,4
+Dragon Soul,412,409,4
+Dragon Soul,413,409,4
+Dragon Soul,414,409,4
+Dragon Soul,415,409,4
+Dustwallow Marsh,416,70,6
+Temple of Kotmogu,417,390,6
+Krasarang Wilds,418,424,3
+Ruins of Ogudei,419,418,5
+Ruins of Ogudei,420,418,5
+Ruins of Ogudei,421,418,5
+Dread Wastes,422,424,3
+Silvershard Mines,423,224,4
+Pandaria,424,947,2
+Northshire,425,37,3
+Echo Ridge Mine,426,37,5
+Coldridge Valley,427,27,6
+Frostmane Hovel,428,27,5
+Temple of the Jade Serpent,429,371,4
+Temple of the Jade Serpent,430,371,4
+Scarlet Halls,431,18,4
+Scarlet Halls,432,18,4
+The Veiled Stair,433,424,3
+The Ancient Passage,434,379,5
+Scarlet Monastery,435,18,4
+Scarlet Monastery,436,18,4
+Gate of the Setting Sun,437,390,4
+Gate of the Setting Sun,438,390,4
+Stormstout Brewery,439,376,4
+Stormstout Brewery,440,376,4
+Stormstout Brewery,441,376,4
+Stormstout Brewery,442,376,4
+Shado-Pan Monastery,443,379,4
+Shado-Pan Monastery,444,443,4
+Shado-Pan Monastery,445,443,4
+Shado-Pan Monastery,446,443,4
+A Brewing Storm,447,371,6
+The Jade Forest,448,371,6
+Temple of Kotmogu,449,390,6
+Unga Ingoo,450,418,6
+Assault on Zan'vess,451,422,6
+Brewmoon Festival,452,379,6
+Mogu'shan Palace,453,390,4
+Mogu'shan Palace,454,390,4
+Mogu'shan Palace,455,390,4
+Terrace of Endless Spring,456,433,6
+Siege of Niuzao Temple,457,388,4
+Siege of Niuzao Temple,458,457,4
+Siege of Niuzao Temple,459,457,4
+Shadowglen,460,57,3
+Valley of Trials,461,1,3
+Camp Narache,462,7,3
+Echo Isles,463,1,3
+Spitescale Cavern,464,1,5
+Deathknell,465,18,3
+Night Web's Hollow,466,18,5
+Sunstrider Isle,467,94,3
+Ammen Vale,468,97,3
+New Tinkertown,469,27,3
+Frostmane Hold,470,27,5
+Mogu'shan Vaults,471,390,4
+Mogu'shan Vaults,472,390,4
+Mogu'shan Vaults,473,390,4
+Heart of Fear,474,422,4
+Heart of Fear,475,422,4
+Scholomance,476,22,4
+Scholomance,477,22,4
+Scholomance,478,22,4
+Scholomance,479,22,4
+Proving Grounds,480,379,4
+Crypt of Forgotten Kings,481,379,4
+Crypt of Forgotten Kings,482,379,4
+Dustwallow Marsh,483,70,6
+Krasarang Wilds,486,418,6
+A Little Patience,487,418,6
+Dagger in the Dark,488,433,6
+Dagger in the Dark,489,379,4
+Black Temple,490,104,4
+Black Temple,491,490,4
+Black Temple,492,490,4
+Black Temple,493,490,4
+Black Temple,494,490,4
+Black Temple,495,490,4
+Black Temple,496,490,4
+Black Temple,497,490,4
+Krasarang Wilds,498,418,6
+Deeprun Tram,499,84,4
+Deeprun Tram,500,84,4
+Dalaran,501,13,4
+Dalaran,502,13,4
+Brawl'gar Arena,503,85,4
+Isle of Thunder,504,424,3
+Lightning Vein Mine,505,504,5
+The Swollen Vault,506,504,5
+Isle of Giants,507,424,3
+Throne of Thunder,508,504,4
+Throne of Thunder,509,504,4
+Throne of Thunder,510,504,4
+Throne of Thunder,511,504,4
+Throne of Thunder,512,504,4
+Throne of Thunder,513,504,4
+Throne of Thunder,514,504,4
+Throne of Thunder,515,504,4
+Isle of Thunder,516,424,6
+Lightning Vein Mine,517,516,5
+Thunder King's Citadel,518,504,4
+Deepwind Gorge,519,376,6
+Vale of Eternal Blossoms,520,390,6
+Vale of Eternal Blossoms,521,390,4
+The Secrets of Ragefire,522,85,4
+Dun Morogh,523,27,6
+Battle on the High Seas,524,12,6
+Frostfire Ridge,525,572,3
+Turgall's Den,526,525,5
+Turgall's Den,527,525,5
+Turgall's Den,528,525,5
+Turgall's Den,529,525,5
+Grom'gar,530,525,5
+Grulloc's Grotto,531,525,5
+Grulloc's Grotto,532,525,5
+Snowfall Alcove,533,525,5
+Tanaan Jungle,534,572,3
+Talador,535,572,3
+Tomb of Lights,536,535,5
+Tomb of Souls,537,535,5
+The Breached Ossuary,538,535,5
+Shadowmoon Valley,539,572,3
+Bloodthorn Cave,540,539,5
+Den of Secrets,541,539,5
+Spires of Arak,542,572,3
+Gorgrond,543,572,3
+Moira's Reach,544,543,5
+Moira's Reach,545,543,5
+Fissure of Fury,546,543,5
+Fissure of Fury,547,543,5
+Cragplume Cauldron,548,543,5
+Cragplume Cauldron,549,543,5
+Nagrand,550,572,3
+The Masters' Cavern,551,550,5
+Stonecrag Gorge,552,550,5
+Oshu'gun,553,550,5
+Timeless Isle,554,424,3
+Cavern of Lost Spirits,555,554,5
+Siege of Orgrimmar,556,390,4
+Siege of Orgrimmar,557,556,4
+Siege of Orgrimmar,558,556,4
+Siege of Orgrimmar,559,556,4
+Siege of Orgrimmar,560,556,4
+Siege of Orgrimmar,561,556,4
+Siege of Orgrimmar,562,556,4
+Siege of Orgrimmar,563,556,4
+Siege of Orgrimmar,564,556,4
+Siege of Orgrimmar,565,556,4
+Siege of Orgrimmar,566,556,4
+Siege of Orgrimmar,567,556,4
+Siege of Orgrimmar,568,556,4
+Siege of Orgrimmar,569,556,4
+Siege of Orgrimmar,570,556,4
+Celestial Tournament,571,554,6
+Draenor,572,946,2
+Bloodmaul Slag Mines,573,525,4
+Shadowmoon Burial Grounds,574,539,4
+Shadowmoon Burial Grounds,575,539,4
+Shadowmoon Burial Grounds,576,539,4
+Tanaan Jungle,577,572,6
+Umbral Halls,578,577,5
+Lunarfall Excavation,579,582,5
+Lunarfall Excavation,580,582,5
+Lunarfall Excavation,581,582,5
+Lunarfall,582,539,6
+Frostwall Mine,585,590,5
+Frostwall Mine,586,590,5
+Frostwall Mine,587,590,5
+Ashran,588,572,3
+Ashran Mine,589,588,5
+Frostwall,590,525,6
+Auchindoun,593,535,4
+Shattrath City,594,572,6
+Iron Docks,595,543,4
+Blackrock Foundry,596,543,4
+Blackrock Foundry,597,543,4
+Blackrock Foundry,598,543,4
+Blackrock Foundry,599,543,4
+Blackrock Foundry,600,543,4
+Skyreach,601,542,4
+Skyreach,602,542,4
+Grimrail Depot,606,543,4
+Grimrail Depot,607,543,4
+Grimrail Depot,608,543,4
+Grimrail Depot,609,543,4
+Highmaul,610,550,4
+Highmaul,611,610,4
+Highmaul,612,610,4
+Highmaul,613,610,4
+Highmaul,614,610,4
+Highmaul,615,610,4
+Upper Blackrock Spire,616,36,4
+Upper Blackrock Spire,617,36,4
+Upper Blackrock Spire,618,36,4
+Broken Isles,619,947,2
+The Everbloom,620,543,4
+The Everbloom,621,620,4
+Stormshield,622,588,6
+Hillsbrad Foothills (Southshore vs. Tarren Mill),623,25,6
+Warspear,624,588,6
+Dalaran,626,619,4
+Dalaran,627,619,4
+Dalaran,628,619,4
+Dalaran,629,619,4
+Azsuna,630,619,3
+Nar'thalas Academy,631,630,5
+Oceanus Cove,632,630,5
+Temple of a Thousand Lights,633,630,5
+Stormheim,634,619,3
+Shield's Rest,635,634,5
+Stormscale Cavern,636,634,5
+Thorignir Refuge,637,634,5
+Thorignir Refuge,638,634,5
+Aggramar's Vault,639,634,5
+Vault of Eyir,640,634,5
+Val'sharah,641,619,3
+Darkpens,642,641,5
+Sleeper's Barrow,643,641,5
+Sleeper's Barrow,644,641,5
+Twisting Nether,645,619,6
+Broken Shore,646,619,3
+Acherus: The Ebon Hold,647,619,5
+Acherus: The Ebon Hold,648,619,5
+Helheim,649,634,6
+Highmountain,650,619,3
+Bitestone Enclave,651,650,5
+Thunder Totem,652,650,5
+Cave of the Blood Trial,653,650,5
+Mucksnout Den,654,650,5
+Lifespring Cavern,655,650,5
+Lifespring Cavern,656,650,5
+Path of Huln,657,650,5
+Path of Huln,658,650,5
+Stonedark Grotto,659,650,5
+Feltotem Caverns,660,650,5
+Hellfire Citadel,661,534,4
+Hellfire Citadel,662,661,4
+Hellfire Citadel,663,661,4
+Hellfire Citadel,664,661,4
+Hellfire Citadel,665,661,4
+Hellfire Citadel,666,661,4
+Hellfire Citadel,667,661,4
+Hellfire Citadel,668,661,4
+Hellfire Citadel,669,661,4
+Hellfire Citadel,670,661,4
+The Cove of Nashal,671,619,6
+"Mardum, the Shattered Abyss",672,619,6
+Cryptic Hollow,673,672,5
+Soul Engine,674,672,5
+Soul Engine,675,672,5
+Broken Shore,676,619,6
+Vault of the Wardens,677,630,4
+Vault of the Wardens,678,630,4
+Vault of the Wardens,679,630,4
+Suramar,680,619,3
+The Arcway Vaults,681,680,5
+Felsoul Hold,682,680,5
+The Arcway Vaults,683,680,5
+Shattered Locus,684,680,5
+Shattered Locus,685,680,5
+Elor'shan,686,680,5
+Kel'balor,687,680,5
+Ley Station Anora,688,680,5
+Ley Station Moonfall,689,680,5
+Ley Station Aethenar,690,680,5
+Nyell's Workshop,691,680,5
+Falanaar Arcway,692,680,5
+Falanaar Arcway,693,680,5
+Helmouth Shallows,694,619,6
+Skyhold,695,619,4
+Stormheim,696,619,6
+Azshara,697,76,6
+Icecrown Citadel,698,118,4
+Icecrown Citadel,699,118,4
+Icecrown Citadel,700,118,4
+Icecrown Citadel,701,118,4
+Netherlight Temple,702,619,4
+Halls of Valor,703,634,4
+Halls of Valor,704,703,4
+Halls of Valor,705,703,4
+Helmouth Cliffs,706,634,4
+Helmouth Cliffs,707,706,4
+Helmouth Cliffs,708,706,4
+The Wandering Isle,709,619,6
+Vault of the Wardens,710,630,4
+Vault of the Wardens,711,630,4
+Vault of the Wardens,712,630,4
+Eye of Azshara,713,630,6
+Niskara,714,619,6
+Emerald Dreamway,715,747,6
+Skywall,716,249,4
+Dreadscar Rift,717,619,6
+Dreadscar Rift,718,619,6
+"Mardum, the Shattered Abyss",719,619,4
+"Mardum, the Shattered Abyss",720,719,4
+"Mardum, the Shattered Abyss",721,719,4
+The Violet Hold,723,627,4
+The Maelstrom,725,948,6
+The Maelstrom,726,619,6
+Terrace of Endless Spring,728,433,6
+Crumbling Depths,729,207,5
+Neltharion's Lair,731,650,6
+Violet Hold,732,627,4
+Darkheart Thicket,733,641,6
+Hall of the Guardian,734,627,4
+Hall of the Guardian,735,627,4
+The Beyond,736,114,4
+The Vortex Pinnacle,737,249,4
+Firelands,738,198,6
+Trueshot Lodge,739,650,3
+Shadowgore Citadel,740,619,4
+Shadowgore Citadel,741,619,4
+Abyssal Maw,742,204,4
+Abyssal Maw,743,204,4
+Ulduar,744,120,4
+Ulduar,745,120,4
+Ulduar,746,120,4
+The Dreamgrove,747,641,6
+Niskara,748,619,6
+The Arcway,749,680,4
+Thunder Totem,750,650,6
+Black Rook Hold,751,641,4
+Black Rook Hold,752,641,4
+Black Rook Hold,753,641,4
+Black Rook Hold,754,641,4
+Black Rook Hold,755,641,4
+Black Rook Hold,756,641,4
+Ursoc's Lair,757,116,6
+Gloaming Reef,758,641,6
+Black Temple,759,104,4
+Malorne's Nightmare,760,198,6
+Court of Stars,761,680,4
+Court of Stars,762,761,4
+Court of Stars,763,761,4
+The Nighthold,764,680,4
+The Nighthold,765,680,4
+The Nighthold,766,680,4
+The Nighthold,767,680,4
+The Nighthold,768,680,4
+The Nighthold,769,680,4
+The Nighthold,770,680,4
+The Nighthold,771,680,4
+The Nighthold,772,680,4
+Tol Barad,773,13,6
+Tol Barad,774,244,4
+The Exodar,775,12,6
+Azuremyst Isle,776,12,6
+The Emerald Nightmare,777,641,4
+The Emerald Nightmare,778,641,4
+The Emerald Nightmare,779,641,4
+The Emerald Nightmare,780,641,4
+The Emerald Nightmare,781,641,4
+The Emerald Nightmare,782,12,4
+The Emerald Nightmare,783,13,4
+The Emerald Nightmare,784,13,4
+The Emerald Nightmare,785,12,4
+The Emerald Nightmare,786,641,4
+The Emerald Nightmare,787,641,4
+The Emerald Nightmare,788,641,4
+The Emerald Nightmare,789,641,4
+Eye of Azshara,790,619,3
+Temple of the Jade Serpent,791,371,4
+Temple of the Jade Serpent,792,371,4
+Black Rook Hold,793,641,6
+Karazhan,794,42,4
+Karazhan,795,42,4
+Karazhan,796,42,4
+Karazhan,797,42,4
+The Arcway,798,680,4
+The Oculus,799,114,6
+The Oculus,800,114,4
+The Oculus,801,114,4
+The Oculus,802,114,4
+The Oculus,803,114,4
+Scarlet Monastery,804,18,4
+Scarlet Monastery,805,18,4
+Trial of Valor,806,634,4
+Trial of Valor,807,806,4
+Trial of Valor,808,806,4
+Karazhan,809,42,4
+Karazhan,810,42,4
+Karazhan,811,42,4
+Karazhan,812,42,4
+Karazhan,813,42,4
+Karazhan,814,42,4
+Karazhan,815,42,4
+Karazhan,816,42,4
+Karazhan,817,42,4
+Karazhan,818,42,4
+Karazhan,819,42,4
+Karazhan,820,42,4
+Karazhan,821,42,4
+Karazhan,822,42,4
+Pit of Saron,823,118,6
+Islands,824,947,6
+Wailing Caverns,825,10,4
+Cave of the Bloodtotem,826,650,4
+Stratholme,827,22,4
+The Eye of Eternity,828,114,4
+Halls of Valor,829,634,4
+Krokuun,830,905,3
+The Vindicaar,831,830,5
+The Vindicaar,832,830,5
+Nath'raxas Spire,833,830,5
+Coldridge Valley,834,27,6
+The Deadmines,835,52,4
+The Deadmines,836,52,4
+Arathi Basin,837,14,6
+Battle for Blackrock Mountain,838,36,6
+The Maelstrom,839,948,4
+Gnomeregan,840,27,4
+Gnomeregan,841,27,4
+Gnomeregan,842,27,4
+Shado-Pan Showdown,843,379,6
+Arathi Basin,844,14,6
+Cathedral of Eternal Night,845,646,4
+Cathedral of Eternal Night,846,646,4
+Cathedral of Eternal Night,847,646,4
+Cathedral of Eternal Night,848,646,4
+Cathedral of Eternal Night,849,646,4
+Tomb of Sargeras,850,646,4
+Tomb of Sargeras,851,646,4
+Tomb of Sargeras,852,646,4
+Tomb of Sargeras,853,646,4
+Tomb of Sargeras,854,646,4
+Tomb of Sargeras,855,646,4
+Tomb of Sargeras,856,646,4
+Throne of the Four Winds,857,249,4
+Assault on Broken Shore,858,619,6
+Warsong Gulch,859,10,6
+The Ruby Sanctum,860,115,6
+"Mardum, the Shattered Abyss",861,672,6
+Zuldazar,862,875,3
+Nazmir,863,875,3
+Vol'dun,864,875,3
+Stormheim,865,634,4
+Stormheim,866,634,4
+Azsuna,867,630,4
+Val'sharah,868,641,4
+Highmountain,869,650,4
+Highmountain,870,650,4
+The Lost Glacier,871,113,6
+Stormstout Brewery,872,376,4
+Stormstout Brewery,873,376,4
+Stormstout Brewery,874,376,4
+Zandalar,875,947,2
+Kul Tiras,876,947,2
+Fields of the Eternal Hunt,877,634,6
+"Mardum, the Shattered Abyss",879,672,4
+"Mardum, the Shattered Abyss",880,672,4
+The Eye of Eternity,881,114,4
+Eredath,882,905,3
+The Vindicaar,883,882,5
+The Vindicaar,884,882,5
+Antoran Wastes,885,905,3
+The Vindicaar,886,885,5
+The Vindicaar,887,885,5
+Hall of Communion,888,119,4
+Arcatraz,889,109,4
+Arcatraz,890,109,4
+Azuremyst Isle,891,12,4
+Azuremyst Isle,892,891,4
+Azuremyst Isle,893,891,4
+Azuremyst Isle,894,891,4
+Tiragarde Sound,895,876,3
+Drustvar,896,876,3
+The Deaths of Chromie,897,113,4
+The Deaths of Chromie,898,897,4
+The Deaths of Chromie,899,897,4
+The Deaths of Chromie,900,897,4
+The Deaths of Chromie,901,897,4
+The Deaths of Chromie,902,897,4
+The Seat of the Triumvirate,903,882,6
+Silithus Brawl,904,81,6
+Argus,905,619,2
+Arathi Highlands,906,13,6
+Seething Shore,907,12,6
+Ruins of Lordaeron,908,13,6
+"Antorus, the Burning Throne",909,885,4
+"Antorus, the Burning Throne",910,909,4
+"Antorus, the Burning Throne",911,909,4
+"Antorus, the Burning Throne",912,909,4
+"Antorus, the Burning Throne",913,909,4
+"Antorus, the Burning Throne",914,909,4
+"Antorus, the Burning Throne",915,909,4
+"Antorus, the Burning Throne",916,909,4
+"Antorus, the Burning Throne",917,909,4
+"Antorus, the Burning Throne",918,909,4
+"Antorus, the Burning Throne",919,909,4
+"Antorus, the Burning Throne",920,909,4
+Invasion Point: Aurinor,921,905,6
+Invasion Point: Bonich,922,905,6
+Invasion Point: Cen'gar,923,905,6
+Invasion Point: Naigtal,924,905,6
+Invasion Point: Sangua,925,905,6
+Invasion Point: Val,926,905,6
+Greater Invasion Point: Pit Lord Vilemus,927,905,6
+Greater Invasion Point: Mistress Alluradel,928,905,6
+Greater Invasion Point: Matron Folnuna,929,905,6
+Greater Invasion Point: Inquisitor Meto,930,905,6
+Greater Invasion Point: Sotanathor,931,905,6
+Greater Invasion Point: Occularus,932,905,6
+Forge of Aeons,933,572,6
+Atal'Dazar,934,862,4
+Atal'Dazar,935,862,4
+Freehold,936,895,4
+Gilneas Island,938,947,6
+Tropical Isle 8.0,939,947,6
+The Vindicaar,940,830,4
+The Vindicaar,941,830,4
+Stormsong Valley,942,876,3
+Arathi Highlands,943,13,6
+Cosmic,946,0,0
+Azeroth,947,946,1
+The Maelstrom,948,947,2
+Telogrus Rift,971,619,6
+Telogrus Rift,972,619,6
+The Sunwell,973,335,4
+Tol Dagor,974,895,6
+Tol Dagor,975,895,4
+Tol Dagor,976,895,4
+Tol Dagor,977,895,4
+Tol Dagor,978,895,4
+Tol Dagor,979,895,4
+Tol Dagor,980,895,4
+Un'gol Ruins,981,947,6
+Tirisfal Glades,997,0,3
+Undercity,998,908,3
+Kings' Rest,1004,862,4
+Atul'Aman,1009,864,5
+The MOTHERLODE!!,1010,194,3
+Stormwind City,1012,13,6
+The Stockade,1013,13,6
+Waycrest Manor,1015,896,4
+Waycrest Manor,1016,896,4
+Waycrest Manor,1017,896,4
+Waycrest Manor,1018,896,4
+Chamber of Heart,1021,81,4
+Uncharted Island,1022,0,3
+Waycrest Manor,1029,896,4
+Greymane Manor,1030,217,5
+Greymane Manor,1031,179,5
+Skittering Hollow,1032,0,3
+The Rotting Mire,1033,0,3
+Verdant Wilds,1034,0,3
+Molten Cay,1035,0,3
+The Dread Chain,1036,0,3
+Whispering Reef,1037,0,3
+Temple of Sethraliss,1038,864,4
+Shrine of the Storm,1039,942,3
+Shrine of the Storm,1040,942,4
+The Underrot,1041,863,3
+The Underrot,1042,863,4
+Temple of Sethraliss,1043,864,4
+Arathi Highlands,1044,13,6
+"Thros, The Blighted Lands",1045,896,4
+Uldir,1148,863,4
+Uldir,1149,863,4
+Uldir,1150,863,4
+Uldir,1151,863,4
+Uldir,1152,863,4
+Uldir,1153,863,4
+Uldir,1154,863,4
+Uldir,1155,863,4
+The Great Sea,1156,947,6
+The Great Sea,1157,947,6
+Arathi Highlands,1158,0,3
+Blackrock Depths,1159,32,4
+Blackrock Depths,1160,32,4
+Boralus,1161,895,3
+Siege of Boralus,1162,895,4
+Dazar'alor,1163,1165,5
+Dazar'alor,1164,1165,5
+Dazar'alor,1165,862,3
+Zanchul,1166,1165,4
+Zanchul,1167,1165,4
+Tol Dagor,1169,876,3
+Gorgrond - Mag'har Scenario,1170,0,3
+Gol Thovas,1171,895,5
+Gol Thovas,1172,895,5
+Rastakhan's Might,1173,862,5
+Rastakhan's Might,1174,862,5
+Breath Of Pa'ku,1176,862,5
+Breath Of Pa'ku,1177,862,4
+Abyssal Melody,1179,942,5
+Abyssal Melody,1180,942,5
+Zuldazar,1181,875,6
+Saltstone Mine,1182,942,4
+Thornheart,1183,942,4
+Winterchill Mine,1184,895,5
+Winterchill Mine,1185,895,5
+Blackrock Depths,1186,32,4
+Darkshore,1203,12,6
+Darkshore,1332,12,6
+Darkshore,1333,12,6
+Wintergrasp,1334,113,6
+Cooking: Impossible,1335,0,3
+Havenswood,1336,0,3
+Jorundall,1337,0,3
+Darkshore,1338,12,6
+Warsong Gulch,1339,10,3
+8.1 Darkshore Outdoor Final Phase,1343,0,6
+Crucible of Storms,1345,942,4
+Crucible of Storms,1346,942,4
+Zandalari Treasury,1347,0,3
+Zandalari Treasury,1348,862,4
+Tol Dagor,1349,895,6
+Tol Dagor,1350,895,4
+Tol Dagor,1351,895,4
+Battle of Dazar'alor,1352,862,4
+Battle of Dazar'alor,1353,862,4
+Battle of Dazar'alor,1354,862,4
+Nazjatar,1355,947,3
+Battle of Dazar'alor,1356,862,4
+Battle of Dazar'alor,1357,862,4
+Battle of Dazar'alor,1358,862,4
+Icecrown Citadel,1359,118,4
+Icecrown Citadel,1360,118,4
+OldIronforge,1361,87,4
+Shrine of the Storm,1362,0,3
+Crucible of Storms,1363,942,4
+Battle of Dazar'alor,1364,862,4
+Arathi Basin,1366,14,6
+Battle of Dazar'alor,1367,862,4
+GnomereganA,1371,27,4
+GnomereganB,1372,27,4
+GnomereganD,1374,27,4
+Halls of Stone,1375,120,4
+8.3 Visions of N'Zoth - Prototype,1379,0,3
+GnomereganC,1380,27,4
+Uldir,1381,863,4
+Uldir,1382,863,4
+Arathi Basin,1383,14,6
+Prison of Ink,1407,896,4
+Ashran,1408,0,3
+Exile's Reach,1409,0,6
+Mechagon Island,1462,876,3
+Scarlet Halls,1465,18,4
+The Dreamgrove,1468,641,6
+Vision of Orgrimmar,1469,12,6
+Vision of Stormwind,1470,13,6
+Emerald Dreamway,1471,747,6
+The Dragon's Spine,1472,650,6
+Chamber of Heart,1473,81,4
+The Maelstrom - Heart of Azeroth,1474,948,6
+The Emerald Dream,1475,747,6
+Twilight Highlands,1476,13,6
+Ashran,1478,572,6
+Baine Rescue,1479,556,6
+Mechagon,1490,876,4
+Mechagon,1491,876,4
+Mechagon,1493,876,4
+Mechagon,1494,876,4
+Mechagon,1497,876,4
+Zin-Azshari,1499,1355,5
+,1500,1355,5
+Crestfall,1501,876,6
+Snowblossom Village,1502,424,6
+Stratholme,1505,23,4
+The Eternal Palace,1512,1355,4
+The Eternal Palace,1513,1355,4
+The Eternal Palace,1514,1355,4
+The Eternal Palace,1515,1355,4
+The Eternal Palace,1516,1355,4
+The Eternal Palace,1517,1355,4
+The Eternal Palace,1518,1355,4
+The Eternal Palace,1519,1355,4
+The Eternal Palace,1520,1355,4
+Karazhan Catacombs,1521,0,6
+Crumbling Cavern,1522,1462,5
+Solesa Naksu [DNT],1523,0,3
+,1524,1355,5
+Revendreth,1525,1550,3
+Uldum,1527,12,3
+Nazjatar,1528,947,6
+Vale of Eternal Blossoms,1530,424,3
+Crapopolis,1531,194,6
+Crapopolis,1532,194,6
+Bastion,1533,1550,3
+Orgrimmar,1534,12,6
+Durotar,1535,12,6
+Maldraxxus,1536,1550,3
+Alterac Valley,1537,25,6
+Blackwing Descent,1538,36,4
+Blackwing Descent,1539,36,4
+Halls of Origination,1540,249,4
+Halls of Origination,1541,249,4
+Halls of Origination,1542,249,4
+The Maw,1543,1550,3
+Mogu'shan Palace,1544,390,4
+Mogu'shan Palace,1545,390,4
+Mogu'shan Palace,1546,390,4
+Mogu'shan Vaults,1547,390,4
+Mogu'shan Vaults,1548,390,4
+Mogu'shan Vaults,1549,390,4
+The Shadowlands,1550,946,2
+Caverns of Time,1552,71,4
+Caverns of Time,1553,71,4
+Serpentshrine Cavern,1554,102,4
+Tempest Keep,1555,109,4
+Hyjal Summit,1556,198,6
+Naxxramas,1557,23,4
+Icecrown Citadel,1558,118,6
+The Bastion of Twilight,1559,241,6
+Blackwing Lair,1560,36,6
+Firelands,1561,367,6
+Trial of the Crusader,1563,118,6
+Ardenweald,1565,1550,3
+Vale of Eternal Blossoms,1570,424,6
+Uldum,1571,12,6
+Mechagon City,1573,876,4
+Mechagon City,1574,876,4
+Deepwind Gorge,1576,376,6
+Gilneas City,1577,13,3
+Blackrock Depths,1578,32,4
+Pools Of Power,1579,1530,5
+Ny'alotha,1580,947,4
+Ny'alotha,1581,947,4
+Ny'alotha,1582,947,4
+Ny'alotha,1590,947,4
+Ny'alotha,1591,947,4
+Ny'alotha,1592,947,4
+Ny'alotha,1593,947,4
+Ny'alotha,1594,947,4
+Ny'alotha,1595,947,4
+Ny'alotha,1596,947,4
+Ny'alotha,1597,947,4
+Vault of Y'Shaarj,1600,1530,5
+Icecrown Citadel,1602,118,4
+Ardenweald,1603,1550,6
+Chamber Of Heart,1604,81,4
+Darkmaul Citadel,1609,1409,4
+Darkmaul Citadel,1610,1409,4
+Dark Citadel,1611,0,4
+JT_New_A,1614,0,4
+TG10_Floor [Deprecated],1615,1543,6
+TG11_Floor [Deprecated],1616,1543,6
+TG12_Floor [Deprecated],1617,1543,6
+Torghast,1618,1543,6
+Torghast,1619,1543,6
+Torghast,1620,1543,6
+Torghast,1621,1543,6
+Torghast,1623,1543,6
+Torghast,1624,1543,6
+Torghast,1627,1543,6
+Torghast,1628,1543,6
+Torghast,1629,1543,6
+Torghast,1630,1543,6
+Torghast,1631,1543,6
+Torghast,1632,1543,6
+Torghast,1635,1543,6
+Torghast,1636,1543,6
+Torghast,1641,1543,6
+Val'sharah,1642,619,6
+Ember Court,1644,1525,6
+The Maw,1648,1550,6
+Etheric Vault,1649,1536,5
+Sightless Hold,1650,1536,5
+Molten Forge,1651,1536,5
+Vault of Souls,1652,1536,5
+Torghast - Map Floor 10 [Deprecated],1656,1550,6
+Alpha_TG_R02,1658,0,4
+Alpha_TG_R03,1659,1550,4
+Alpha_TG_R05,1661,1550,4
+Queen's Conservatory,1662,1565,6
+Halls of Atonement,1663,1525,4
+Halls of Atonement,1664,1525,4
+Halls of Atonement,1665,1525,4
+The Necrotic Wake,1666,1533,4
+The Necrotic Wake,1667,1533,4
+The Necrotic Wake,1668,1533,4
+Mists of Tirna Scithe,1669,1565,4
+Oribos,1670,1550,4
+Oribos,1671,1550,4
+Oribos,1672,1550,4
+Oribos,1673,1550,4
+Plaguefall,1674,1536,4
+Sanguine Depths,1675,1525,4
+Sanguine Depths,1676,1525,4
+De Other Side,1677,1565,4
+De Other Side,1678,1565,4
+De Other Side,1679,1565,4
+De Other Side,1680,1565,4
+Icecrown Citadel,1681,118,4
+Icecrown Citadel,1682,118,4
+Theater of Pain,1683,1536,4
+Theater of Pain,1684,1536,4
+Theater of Pain,1685,1536,4
+Theater of Pain,1686,1536,4
+Theater of Pain,1687,1536,4
+Revendreth,1688,1550,6
+Maldraxxus,1689,1550,6
+Aspirant's Quarters,1690,1533,5
+Shattered Grove,1691,905,6
+Spires Of Ascension,1692,1533,4
+Spires Of Ascension,1693,1533,4
+Spires Of Ascension,1694,1533,4
+Spires Of Ascension,1695,1533,4
+Plaguefall,1697,1536,4
+Seat of the Primus,1698,1536,4
+Sinfall,1699,1525,4
+Sinfall,1700,1525,4
+Heart of the Forest,1701,1565,4
+Heart of the Forest,1702,1565,4
+Heart of the Forest,1703,1565,4
+Torghast - Entrance,1705,0,6
+Elysian Hold,1707,1533,4
+Elysian Hold,1708,1533,4
+Ardenweald,1709,1565,6
+Ascension Coliseum,1711,1533,6
+Torghast,1712,1543,6
+Path of Wisdom,1713,1533,5
+Third Chamber of Kalliope,1714,1533,5
+Vestibule Of Eternity,1715,905,6
+Chill's Reach,1717,905,6
+Covenant_Ard_Torghast,1720,1543,4
+Torghast,1721,1543,6
+Vortrexxis,1724,1536,4
+The North Sea,1726,0,6
+The North Sea,1727,0,6
+The Runecarver,1728,0,6
+Castle Nathria,1735,1525,4
+Torghast,1736,1543,6
+Castle Nathria,1744,1525,4
+Castle Nathria,1745,1525,4
+Castle Nathria,1746,1525,4
+Castle Nathria,1747,1525,4
+Castle Nathria,1748,1525,4
+Torghast,1749,1543,6
+Castle Nathria,1750,1525,4
+Torghast,1751,1543,6
+Torghast,1752,1543,6
+Torghast,1753,1543,6
+Torghast,1754,1543,6
+Castle Nathria,1755,1525,6
+Torghast,1756,1543,6
+Torghast,1757,1543,6
+Torghast,1758,1543,6
+Torghast,1759,1543,6
+Torghast,1760,1543,6
+Torghast,1761,1543,6
+"Torghast, Tower of the Damned",1762,0,6
+Torghast,1763,1543,6
+Torghast,1764,1543,6
+Torghast,1765,1543,6
+Torghast,1766,1543,6
+Torghast,1767,1543,6
+Torghast,1768,1543,6
+Torghast,1769,1543,6
+Torghast,1770,1543,6
+Torghast,1771,1543,6
+Torghast,1772,1543,6
+Torghast,1773,1543,6
+Torghast,1774,1543,6
+Torghast,1776,1543,6
+Torghast,1777,1543,6
+Torghast,1778,1543,6
+Torghast,1779,1543,6
+Torghast,1780,1543,6
+Torghast,1781,1543,6
+Torghast,1782,1543,6
+Torghast,1783,1543,6
+Torghast,1784,1543,6
+Torghast,1785,1543,6
+Torghast,1786,1543,6
+Torghast,1787,1543,6
+Torghast,1788,1543,6
+Torghast,1789,1543,6
+Torghast,1791,1543,6
+Torghast,1792,1543,6
+Torghast,1793,1543,6
+Torghast,1794,1543,6
+Torghast,1795,1543,6
+Torghast,1796,1543,6
+Torghast,1797,1543,6
+Torghast,1798,1543,6
+Torghast,1799,1543,6
+Torghast,1800,1543,6
+Torghast,1801,1543,6
+Torghast,1802,1543,6
+Torghast,1803,1543,6
+Torghast,1804,1543,6
+Torghast,1805,1543,6
+Torghast,1806,1543,6
+Torghast,1807,1543,6
+Torghast,1808,1543,6
+Torghast,1809,1543,6
+Torghast,1810,1543,6
+Torghast,1811,1543,6
+Torghast,1812,1543,6
+Claw's Edge,1816,1565,5
+Tirna Vaal,1818,1565,5
+Fungal Terminus,1819,1565,5
+Pit of Anguish,1820,1543,5
+Pit of Anguish,1821,1543,5
+Extractor's Sanatorium,1822,1543,5
+Altar of Domination,1823,1543,5
+Matriarch's Den,1824,1565,5
+The Root Cellar,1825,1565,5
+The Root Cellar,1826,1565,5
+The Root Cellar,1827,1565,5
+,1829,1565,5
+Torghast - Entrance,1911,1543,6
+The Runecarver's Oubliette,1912,1543,6
+Torghast,1913,1543,6
+De Other Side,1917,1565,6
+Torghast,1920,1543,6
+Firelands,1958,198,4
+Firelands,1959,198,4
+The Maw,1960,1550,3
+Korthia,1961,1543,3
+Torghast,1962,1543,6
+Torghast,1963,1543,6
+Torghast,1964,1543,6
+Torghast,1965,1543,6
+Torghast,1966,1543,6
+Torghast,1967,1543,6
+Torghast,1968,1543,6
+Torghast,1969,1543,6
+Zereth Mortis,1970,1550,3
+Skyhold,1971,619,6
+Torghast,1974,1543,6
+Torghast,1975,1543,6
+Torghast,1976,1543,6
+Torghast,1977,1543,6
+Dragon Isles,1978,947,2
+Torghast,1979,1543,6
+Torghast,1980,1543,6
+Torghast,1981,1543,6
+Torghast,1982,1543,6
+Torghast,1983,1543,6
+Torghast,1984,1543,6
+Torghast,1985,1543,6
+Torghast,1986,1543,6
+Torghast,1987,1543,6
+Torghast,1988,1543,6
+"Tazavesh, the Veiled Market",1989,1550,4
+"Tazavesh, the Veiled Market",1990,1550,4
+"Tazavesh, the Veiled Market",1991,1550,4
+"Tazavesh, the Veiled Market",1992,1550,4
+"Tazavesh, the Veiled Market",1993,1550,4
+"Tazavesh, the Veiled Market",1995,1550,4
+"Tazavesh, the Veiled Market",1996,1550,4
+"Tazavesh, the Veiled Market",1997,1995,4
+Sanctum of Domination,1998,1543,4
+Sanctum of Domination,1999,1543,4
+Sanctum of Domination,2000,1543,4
+Sanctum of Domination,2001,1543,4
+Sanctum of Domination,2002,1543,4
+Sanctum of Domination,2003,1543,4
+Sanctum of Domination,2004,1543,4
+Ardenweald,2005,1550,6
+Cavern of Contemplation,2006,1961,5
+Gromit Hollow,2007,1961,5
+Chamber of the Sigil,2008,1961,5
+"Tazavesh, the Veiled Market",2016,1550,6
+Spires of Ascension,2017,1533,6
+Spires of Ascension,2018,1533,6
+The Waking Shores,2022,1978,3
+Ohn'ahran Plains,2023,1978,3
+The Azure Span,2024,1978,3
+Thaldraszus,2025,1978,3
+The Forbidden Reach Deprecated,2026,0,6
+Blooming Foundry,2027,1970,5
+Locrian Esper,2028,1970,5
+Gravid Repose,2029,1970,5
+Nexus of Actualization,2030,1970,5
+Crypts of the Eternal,2031,1970,5
+The Crucible,2042,1670,4
+Sepulcher of the First Ones,2047,1970,4
+Sepulcher of the First Ones,2048,1970,4
+Sepulcher of the First Ones,2049,1970,4
+Sepulcher of the First Ones,2050,1970,4
+Sepulcher of the First Ones,2051,1970,4
+Sepulcher of the First Ones,2052,1970,4
+Sepulcher of the First Ones,2061,1970,4
+Dragon Isles,2063,0,3
+Catalyst Wards,2066,1970,5
+Tirisfal Glades,2070,13,3
+Uldaman: Legacy of Tyr,2071,15,4
+Uldaman: Legacy of Tyr,2072,15,4
+The Azure Vault,2073,2024,4
+The Azure Vault,2074,2024,4
+The Azure Vault,2075,2024,4
+The Azure Vault,2076,2024,4
+The Azure Vault,2077,2024,4
+Neltharus,2080,2022,4
+Neltharus,2081,2022,4
+Halls Of Infusion,2082,2025,4
+Halls Of Infusion,2083,2025,4
+The Emerald Dreamway,2084,747,6
+The Primalist Future,2085,2025,6
+Pandaren Revolution,2088,424,6
+The Black Empire,2089,947,6
+The Gnoll War,2090,13,6
+War of the Shifting Sands,2091,12,6
+Azmerloth,2092,113,6
+The Nokhud Offensive,2093,1978,4
+Ruby Life Pools,2094,2022,4
+Ruby Life Pools,2095,2022,4
+Brackenhide Hollow,2096,2024,4
+Algeth'ar Academy,2097,2025,4
+Algeth'ar Academy,2098,2025,4
+Algeth'ar Academy,2099,2025,4
+The Siege Creche,2100,2151,5
+The Support Creche,2101,2151,5
+The War Creche,2102,2151,5
+Brackenhide Hollow,2106,2024,4
+The Forbidden Reach,2107,0,3
+The War Creche,2109,2118,5
+The Support Creche,2110,2118,5
+The Siege Creche,2111,2118,5
+Valdrakken,2112,2025,3
+The Forbidden Reach,2118,1978,3
+Vault of the Incarnates,2119,2025,4
+Vault of the Incarnates,2120,2025,4
+Vault of the Incarnates,2121,2025,4
+Vault of the Incarnates,2122,2025,4
+Vault of the Incarnates,2123,2025,4
+Vault of the Incarnates,2124,2025,4
+Vault of the Incarnates,2125,2025,4
+Vault of the Incarnates,2126,2025,4
+The Azure Span,2132,2024,5
+Zaralek Cavern,2133,1978,3
+Valdrakken,2135,1978,6
+The Eastern Glades,2146,18,6
+Dragonskull Island,2150,2151,5
+The Forbidden Reach,2151,1978,3
+Froststone Vault,2154,2151,5
+Alterac Valley,2162,25,6
+The Throughway,2165,2133,3
+"Aberrus, the Shadowed Crucible",2166,2133,4
+"Aberrus, the Shadowed Crucible",2167,2133,4
+"Aberrus, the Shadowed Crucible",2168,2133,4
+"Aberrus, the Shadowed Crucible",2169,2133,4
+"Aberrus, the Shadowed Crucible",2170,2133,4
+"Aberrus, the Shadowed Crucible",2171,2133,4
+"Aberrus, the Shadowed Crucible",2172,2133,4
+"Aberrus, the Shadowed Crucible",2173,2133,4
+"Aberrus, the Shadowed Crucible",2174,2133,4
+The Maelstrom,2176,947,6
+The Azure Vault,2183,2024,6
+Zaralek Cavern,2184,2133,5
+Sanctum of Chronology,2190,2198,4
+Millennia's Threshold,2191,2198,4
+Locus of Eternity,2192,2198,4
+Spoke of Endless Winter,2193,2198,4
+Crossroads of Fate,2194,2198,4
+Infinite Conflux,2195,2198,4
+Twisting Approach,2196,2198,4
+Immemorial Battlefield,2197,2198,4
+Dawn of the Infinite,2198,2025,4
+Tyrhold Reservoir,2199,2025,6
+Emerald Dream,2200,1978,3
+Azq'roth,2201,947,4
+Azewrath,2202,946,4
+Azmourne,2203,118,4
+Azmerloth,2204,2092,4
+Ulderoth,2205,905,4
+A.Z.E.R.O.T.H.,2206,1462,4
+The Warlands,2207,947,4
+"Aberrus, the Shadowed Crucible",2211,2133,6
+City of Threads,2213,2255,3
+The Ringing Deeps,2214,2274,3
+Hallowfall,2215,2274,3
+City of Threads - Lower,2216,2255,3
+The Nighthold,2220,680,4
+The Nighthold,2221,680,4
+The Black Empire,2228,947,4
+Halls Of Valor,2230,634,4
+Halls Of Valor,2231,634,4
+Amirdrassil,2232,2200,4
+Amirdrassil,2233,2200,4
+Amirdrassil,2234,2200,4
+The Northern Boughs,2235,2234,4
+The Eastern Boughs,2236,2234,4
+The Southern Boughs,2237,2234,4
+Amirdrassil,2238,2200,4
+Amirdrassil,2239,1978,3
+Amirdrassil,2240,2200,4
+Amirdrassil,2244,2200,4
+Isle of Dorn,2248,2274,3
+Fungal Folly,2249,2248,4
+Kriegval's Rest,2250,2248,4
+The Waterworks,2251,2214,4
+Sor'theril Barrow Den,2253,2200,5
+Barrows of Reverie,2254,2200,5
+Azj-Kahet,2255,2274,3
+Azj-Kahet - Lower,2256,2274,3
+Arathi Highlands,2257,0,3
+Tak-Rethan Abyss,2259,2255,4
+Traitor's Rest,2262,2024,6
+Millenia's Threshold,2266,2025,4
+Earthcrawl Mines,2269,2248,4
+Khaz Algar,2274,947,2
+11.0 - Underground [Deprecated],2275,0,6
+Nightfall Sanctum,2277,2215,4
+Nerub-ar Palace,2291,2255,4
+Nerub-ar Palace,2292,2255,4
+Nerub-ar Palace,2293,2255,4
+Nerub-ar Palace,2294,2255,4
+Nerub-ar Palace,2295,2255,4
+Nerub-ar Palace,2296,2255,4
+The Underkeep,2299,2255,4
+The Sinkhole,2300,2215,4
+The Sinkhole,2301,2215,4
+The Dread Pit,2302,2214,4
+Darkflame Cleft,2303,2214,4
+DarkFlame Cleft,2304,2214,4
+Dalaran,2305,947,4
+Dalaran,2306,947,4
+Dalaran,2307,947,4
+Priory of the Sacred Flame,2308,2215,4
+Priory of the Sacred Flame,2309,2215,4
+Skittering Breach,2310,2215,4
+11.0 -  Hallowfall - [Spreading the Light]- Disabled,2311,2215,3
+Mycomancer Cavern,2312,2215,4
+The Spiral Weave,2313,2255,4
+Tak-Rethan Abyss,2314,2255,4
+The Rookery,2315,2248,4
+The Rookery,2316,2248,4
+The Rookery,2317,2248,4
+The Rookery,2318,2248,4
+The Rookery,2319,2248,4
+The Rookery,2320,2248,4
+Chamber of Heart,2321,81,4
+Hall of Awakening,2322,2248,4
+The Proscenium,2328,2248,3
+Priory of the Sacred Flame,2330,2215,6
+Cinderbrew Meadery,2335,2248,4
+Dornogal,2339,2248,3
+The Stonevault,2341,2214,4
+City of Threads,2343,2213,4
+City of Threads,2344,2213,4
+Deephaul Ravine,2345,2214,6
+Undermine,2346,2214,3
+The Spiral Weave,2347,2255,4
+Zekvir's Lair,2348,2255,4
+Razorwind Shores,2351,12,3
+Founder's Point,2352,13,3
+Silithus,2354,12,3
+City of Echoes,2357,2255,4
+City of Echoes,2358,2255,4
+The Dawnbreaker,2359,2215,4
+Blackrock Depths,2362,32,4
+Blackrock Depths,2363,32,4
+The Wandering Isle,2366,947,3
+Vault of Memory,2367,2248,4
+Hall of Awakening,2368,2248,4
+Siren Isle,2369,2274,3
+K'aresh,2371,2274,3
+Arathi Highlands,2372,13,3
+The War Creche,2373,2118,4
+The Forgotten Vault,2375,2369,5
+"Ny'alotha, the Waking City",2379,947,4
+"Ny'alotha, the Waking City",2381,947,4
+"Ny'alotha, the Waking City",2382,947,4
+"Ny'alotha, the Waking City",2383,947,4
+"Ny'alotha, the Waking City",2384,947,4
+Operation: Floodgate,2387,2214,4
+Operation: Floodgate,2388,2214,4
+Silvermoon City,2393,2395,3
+Labyrinth,2394,12,4
+Eversong Woods,2395,2537,3
+Excavation Site 9,2396,2214,4
+Slayer's Rise,2397,0,3
+Vision of Orgrimmar,2403,12,3
+Vision of Stormwind,2404,13,3
+Voidstorm,2405,2537,3
+Undermine,2406,2214,4
+Undermine,2407,2214,4
+Undermine,2408,2214,4
+Undermine,2409,2214,4
+Undermine,2411,2214,4
+Harandar,2413,2537,3
+Scarlet Halls,2418,18,4
+Sidestreet Sluice,2420,2346,4
+Sidestreet Sluice,2421,2346,4
+Sidestreet Sluice,2422,2346,4
+Sidestreet Sluice,2423,2346,4
+Isle of Quel'Danas,2424,2537,3
+Demolition Dome,2425,2346,4
+Demolition Dome,2426,2346,4
+Sporefall,2427,2413,4
+Undermine,2428,2214,4
+Isle of Quel'Danas,2432,2537,3
+Murder Row,2433,2393,4
+Augurs' Terrace,2434,2433,4
+The Illicit Rain,2435,2433,4
+Zul'Aman,2437,2537,3
+Scarlet Halls,2438,18,4
+Silvermoon City,2443,0,3
+Slayer's Rise,2444,2405,3
+Dastardly Dome,2447,2346,3
+Eco-Dome Al'dani,2449,2371,4
+Arathi Highlands,2451,13,3
+Archival Assault,2452,2371,4
+Archival Assault,2453,2371,4
+Archival Assault,2454,2371,4
+Archival Assault,2455,2371,4
+Manaforge Omega,2460,2371,4
+Manaforge Omega,2461,2371,4
+Manaforge Omega,2462,2371,4
+Manaforge Omega,2463,2371,4
+Manaforge Omega,2464,2371,4
+Manaforge Omega,2465,2371,4
+Manaforge Omega,2466,2371,4
+Manaforge Omega,2467,2371,4
+Manaforge Omega,2468,2371,4
+Manaforge Omega,2469,2371,4
+Manaforge Omega,2470,2371,4
+Manaforge Omega,2471,2371,4
+Tazavesh,2472,2371,3
+Archival Assault,2476,2371,4
+Voidscar Cavern,2477,2371,5
+Voidrazor Sanctuary,2484,2371,4
+Windrunner Spire,2492,2395,4
+Windrunner Spire,2493,2395,4
+Windrunner Spire,2494,2395,4
+Windrunner Spire,2496,2395,4
+Windrunner Spire,2497,2395,4
+Windrunner Spire,2498,2395,4
+Windrunner Spire,2499,2395,4
+The Blinding Vale,2500,2413,4
+Maisara Caverns,2501,2437,4
+Shadow Enclave,2502,2395,4
+Twilight Crypts,2503,2437,4
+Twilight Crypts,2504,2437,4
+Gulf of Memory,2505,2413,4
+Shadowguard Point,2506,2405,4
+Torment's Rise,2507,2405,4
+Vaults of Atal'Utek,2509,2512,3
+The Grudge Pit,2510,2413,3
+Magisters' Terrace,2511,2424,4
+The Coiled Isle,2512,2537,3
+Den of Nalorakk,2513,2437,4
+Den of Nalorakk,2514,2437,4
+Magister's Terrace,2515,2424,4
+Magister's Terrace,2516,2424,4
+Magister's Terrace,2517,2424,4
+Magister's Terrace,2518,2424,4
+Magister's Terrace,2519,2424,4
+Magister's Terrace,2520,2424,4
+Abundant Grotto,2522,2413,5
+Abundant Grotto,2523,2413,5
+The Darkway,2525,2393,4
+Lair of Predaxas,2526,2405,5
+Lair of Predaxas,2527,2405,5
+Sunkiller Sanctum,2528,2405,4
+The Voidspire,2529,2405,4
+The Voidspire,2530,2405,4
+The Dreamrift,2531,2413,4
+The Dreamrift,2532,2413,4
+March on Quel'Danas,2533,2537,4
+March on Quel'Danas,2534,2533,4
+Atal'Aman,2535,2437,4
+Atal'Aman,2536,2437,3
+Quel'Thalas,2537,13,2
+Arcantina,2541,2537,4
+Parhelion Plaza,2545,2424,4
+Collegiate Calamity,2547,2393,4
+Nexus Point Xenas,2556,2405,4
+Derelict Legion Vessel,2557,646,4
+Derelict Legion Vessel,2558,646,4
+Den of Nalorakk,2564,2437,4
+Isle of Quel'Danas,2565,2537,3
+Isle of Quel'Danas,2566,2432,3
+Sunkiller Sanctum,2571,2405,4
+Voidscar Arena,2572,2405,4
+Voidscar Arena,2573,2405,4
+Voidscar Arena,2574,2405,4
+Gulf of Memory,2575,2413,4
+The Den,2576,2413,5
+Collegiate Calamity,2577,2393,4
+Collegiate Calamity,2578,2393,4
+Wartha'nan Crypts,2579,2395,5
+Loaknit Den,2580,2437,5
+Voidburrow,2581,2405,5
+Voidburrow,2582,2405,5
+Wit'Kalar Crypt,2583,2437,5
+Revantusk Sedge,2584,2437,5
+Zul'Aman,2585,2437,3
+Altar of Fangs,2588,2509,4
+Altar of Fangs,2589,2509,4
+Altar of Fangs,2590,2509,4
+Eversong Woods,2594,2395,3
+Ritual Site,2598,0,3
+Val,2599,2405,3
+Naigtal,2600,2405,3
+Silvermoon City,2605,2395,3
+The Venomous Abyss,2606,2512,4
+The Venomous Abyss,2607,2512,4
+The Venomous Abyss,2608,2512,4
+The Venomous Abyss,2609,2512,4
+The Venomous Abyss,2610,2512,4
+The Underbelly,2613,2509,5
+Void Acropolis,2617,2599,4
+Void Acropolis,2618,2599,5
+Void Acropolis,2619,2599,5
+Forgotten Depths,2620,2599,5
+Forgotten Depths,2621,2599,5
+The Tidebound Grotto,2632,2512,4
+The Ring of Glory,2633,2512,3
+Venomfall Deeps,2634,2512,4
+Gnarldor Isle,2635,2512,4
+Vault of Restless Bones,2636,2509,4
+Ruuk'Jar's Clutch,2637,2509,5
+Profaned Mausoleum,2638,2509,5
+Crypt of the Denied,2639,2512,5
+Infested Tomb,2640,2512,5
+Crypt of the Lost Warrior,2641,2512,5
+Tomb of the Lost Priest,2642,2512,5
+Crypt of the Lost Mason,2643,2512,5
+Crypt of the Disgraced,2644,2512,5
+Kin's Rest,2645,2512,5
+Vilaldoun,2646,2600,5
+The Labyrinth of Kindo'jan,2647,2395,4
+The Labyrinth of Kindo'jan,2648,2395,4
+The Lycaneum,2649,2424,5
+The Great Sea,2668,0,3
+The Unbinding of Kith'ix,2669,2613,4
+The Unbinding of Kith'ix,2670,2613,4

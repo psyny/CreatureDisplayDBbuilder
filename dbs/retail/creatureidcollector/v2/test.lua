@@ -14,17 +14,17 @@ CreatureIdCollectorDB = {
     },
     },
     },
-    ["Genevieve"] = {
+    ["PsynyNPC"] = {
     ["instance"] = {
     },
-    ["name"] = "Genevieve",
+    ["name"] = "PsynyNPC",
     ["world"] = {
     ["normal"] = {
     [84] = {
     ["dids"] = {
     },
     ["nids"] = {
-    [44774] = 1,
+    [000009] = 1,
     },
     },
     },

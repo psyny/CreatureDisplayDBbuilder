@@ -3,9 +3,11 @@ import glob
 from libs.serializers.lua_to_obj import lua_to_obj
 from modules.idcollector_loader_v1 import add_to_db
 
-dbloc = 'dbs/creatureidcollector/v2/'
+dbloc_template = 'dbs/{flavor}/creatureidcollector/v2/'
 
-def idcollector_loader_v2(filename = None):
+def idcollector_loader_v2(flavor, filename = None):
+    dbloc = dbloc_template.format(flavor=flavor)
+
     # Priority table
     priority_table = {
         ("","talkinghead"): 0,

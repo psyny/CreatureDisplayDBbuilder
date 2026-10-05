@@ -3,9 +3,11 @@ import glob
 from libs.serializers.jsonfile_to_obj import jsonfile_to_obj
 from modules.parsing_creature_data import add_creature_data_to_db
 
-dbloc = 'dbs/creatureidcollector/v1/'
+dbloc_template = 'dbs/{flavor}/creatureidcollector/v1/'
 
-def idcollector_loader_v1(filename = None):
+def idcollector_loader_v1(flavor, filename = None):
+    dbloc = dbloc_template.format(flavor=flavor)
+
     # Priority table
     priority_table = {
         ("","talkinghead"): 0,
@@ -110,7 +112,7 @@ def add_to_db_by_worldtype(db, world_type, creature_data, priority_table):
                     continue      
 
             # Add to DB
-            add_creature_data_to_db(db, cname, priority, nids, dids)
+            add_creature_data_to_db(db, cname, zone_id_int, nids, dids)
     return 
 
 
