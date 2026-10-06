@@ -1,7 +1,9 @@
 from libs.serializers.ccdb_to_luafile import ccdb_to_luafile
 
-# Max npc ids and max display ids kept per zone. Zone 0 has no limit.
+# Max npc ids and max display ids kept per zone.
 MAX_IDS_PER_ZONE = 3
+# Zone 0 keeps every base id (game Creature table) plus up to this many npc ids and display ids from the other sources.
+MAX_NON_BASE_IDS_ZONE0 = 10
 
 def export_luafile(raw_db, file_path, zone_ancestors = None):
      cddb = create_cddb(raw_db, zone_ancestors)
@@ -80,17 +82,29 @@ def create_cddb(raw_db, zone_ancestors = None):
             entry_zdata = get_dids_nids_empty()
             entry["zone"][zone_id] = entry_zdata
 
-            # Ids are added by priority, then highest id first, so the cap keeps the first ones in that order
-            max_ids = None if zone_id == 0 else MAX_IDS_PER_ZONE
+            # Ids are added by priority, then highest id first, so the cap keeps the first ones in that order.
+            # Zone 0 caps only the non base ids, other zones cap all ids.
+            if zone_id == 0:
+                max_ids = MAX_NON_BASE_IDS_ZONE0
+                base_nids = zdata["base_nids"]
+                base_dids = zdata["base_dids"]
+            else:
+                max_ids = MAX_IDS_PER_ZONE
+                base_nids = set()
+                base_dids = set()
+            capped_nids_qty = 0
+            capped_dids_qty = 0
 
             for priority in range(3):
                 sorted_nids = list(zdata["nids"][priority])
                 sorted_nids.sort(reverse=True)    
                 for nid in sorted_nids:
-                    if max_ids is not None and len(entry_zdata["nids"]) >= max_ids:
-                        break
                     if nid in curr_nids:
                         continue
+                    if nid not in base_nids:
+                        if capped_nids_qty >= max_ids:
+                            continue
+                        capped_nids_qty += 1
                     curr_nids.add(nid)
 
                     entry_zdata["nids"].append(nid)
@@ -99,10 +113,12 @@ def create_cddb(raw_db, zone_ancestors = None):
                 sorted_dids = list(zdata["dids"][priority])
                 sorted_dids.sort(reverse=True)    
                 for did in sorted_dids:
-                    if max_ids is not None and len(entry_zdata["dids"]) >= max_ids:
-                        break
                     if did in curr_dids:
                         continue
+                    if did not in base_dids:
+                        if capped_dids_qty >= max_ids:
+                            continue
+                        capped_dids_qty += 1
                     curr_dids.add(did)
 
                     entry_zdata["dids"].append(did)
