@@ -5,6 +5,11 @@ MAX_IDS_PER_ZONE = 3
 # Zone 0 keeps every base id (game Creature table) plus up to this many npc ids and display ids from the other sources.
 MAX_NON_BASE_IDS_ZONE0 = 10
 
+# Npc id source ranks, lower wins: order within a zone and which name owns an npc id seen under several names.
+NID_RANK_BASE = 0
+NID_RANK_SIMULATOR = 1
+NID_RANK_OTHER = 2
+
 def export_luafile(raw_db, file_path, zone_ancestors = None):
      cddb = create_cddb(raw_db, zone_ancestors)
      ccdb_to_luafile(cddb, file_path)
@@ -47,6 +52,7 @@ def create_cddb(raw_db, zone_ancestors = None):
     data_by_name = {}
     data_by_nid = {}
     data_by_did = {}
+    nid_owner_rank = {}
 
     cddb = {
         "data": creature_data,
@@ -83,33 +89,49 @@ def create_cddb(raw_db, zone_ancestors = None):
             entry["zone"][zone_id] = entry_zdata
 
             # Ids are added by priority, then highest id first, so the cap keeps the first ones in that order.
-            # Zone 0 caps only the non base ids, other zones cap all ids.
+            # Zone 0 caps only the non base (and non simulator) ids, other zones cap all ids.
             if zone_id == 0:
                 max_ids = MAX_NON_BASE_IDS_ZONE0
                 base_nids = zdata["base_nids"]
                 base_dids = zdata["base_dids"]
+                simulator_nids = zdata["simulator_nids"]
             else:
                 max_ids = MAX_IDS_PER_ZONE
                 base_nids = set()
                 base_dids = set()
+                simulator_nids = set()
             capped_nids_qty = 0
             capped_dids_qty = 0
 
-            for priority in range(3):
-                sorted_nids = list(zdata["nids"][priority])
-                sorted_nids.sort(reverse=True)    
-                for nid in sorted_nids:
-                    if nid in curr_nids:
+            def nid_rank(nid):
+                if nid in base_nids:
+                    return NID_RANK_BASE
+                if nid in simulator_nids:
+                    return NID_RANK_SIMULATOR
+                return NID_RANK_OTHER
+
+            # Npc ids go by source rank first (base, simulator, others), then priority, then highest id first
+            sorted_nids = sorted(
+                (nid_rank(nid), priority, -nid, nid)
+                for priority in range(3)
+                for nid in zdata["nids"][priority]
+            )
+            for rank, _, _, nid in sorted_nids:
+                if nid in curr_nids:
+                    continue
+                if rank == NID_RANK_OTHER:
+                    if capped_nids_qty >= max_ids:
                         continue
-                    if nid not in base_nids:
-                        if capped_nids_qty >= max_ids:
-                            continue
-                        capped_nids_qty += 1
-                    curr_nids.add(nid)
+                    capped_nids_qty += 1
+                curr_nids.add(nid)
 
-                    entry_zdata["nids"].append(nid)
+                entry_zdata["nids"].append(nid)
+                # An npc id seen under several names belongs to the one from the highest ranked source
+                if rank <= nid_owner_rank.get(nid, NID_RANK_OTHER):
                     data_by_nid[nid] = cur_idx
+                    nid_owner_rank[nid] = rank
 
+            for priority in range(3):
                 sorted_dids = list(zdata["dids"][priority])
                 sorted_dids.sort(reverse=True)    
                 for did in sorted_dids:

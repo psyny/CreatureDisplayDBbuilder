@@ -1,6 +1,7 @@
 import sys
 
 from modules.wago_loader_v1 import wago_loader_v1
+from modules.simulator_loader_v1 import simulator_loader_v1
 from modules.idcollector_loader_v1 import idcollector_loader_v1
 from modules.idcollector_loader_v2 import idcollector_loader_v2
 from modules.idcollector_loader_v3 import idcollector_loader_v3
@@ -21,6 +22,11 @@ def build(flavor):
     # Parse Wago DBs
     print("Loading Wago Databases")
     tdbs = wago_loader_v1(flavor)
+    dbs.extend(tdbs)
+
+    # Parse Simulator DBs (HeadCrawler npc id -> name), ranked right after Wago
+    print("Loading Simulator Databases")
+    tdbs = simulator_loader_v1(flavor)
     dbs.extend(tdbs)
 
     # Parse Id Collector V1 DBs

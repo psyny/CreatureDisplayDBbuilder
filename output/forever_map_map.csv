@@ -1,0 +1,58 @@
+Name_lang,ID,ParentUiMapID,Type
+Azeroth,947,0,1
+Durotar,1411,1414,3
+Mulgore,1412,1414,3
+The Barrens,1413,1414,3
+Kalimdor,1414,947,2
+Eastern Kingdoms,1415,947,2
+Alterac Mountains,1416,1415,3
+Arathi Highlands,1417,1415,3
+Badlands,1418,1415,3
+Blasted Lands,1419,1415,3
+Tirisfal Glades,1420,1415,3
+Silverpine Forest,1421,1415,3
+Western Plaguelands,1422,1415,3
+Eastern Plaguelands,1423,1415,3
+Hillsbrad Foothills,1424,1415,3
+The Hinterlands,1425,1415,3
+Dun Morogh,1426,1415,3
+Searing Gorge,1427,1415,3
+Burning Steppes,1428,1415,3
+Elwynn Forest,1429,1415,3
+Deadwind Pass,1430,1415,3
+Duskwood,1431,1415,3
+Loch Modan,1432,1415,3
+Redridge Mountains,1433,1415,3
+Stranglethorn Vale,1434,1415,3
+Swamp of Sorrows,1435,1415,3
+Westfall,1436,1415,3
+Wetlands,1437,1415,3
+Teldrassil,1438,1414,3
+Darkshore,1439,1414,3
+Ashenvale,1440,1414,3
+Thousand Needles,1441,1414,3
+Stonetalon Mountains,1442,1414,3
+Desolace,1443,1414,3
+Feralas,1444,1414,3
+Dustwallow Marsh,1445,1414,3
+Tanaris,1446,1414,3
+Azshara,1447,1414,3
+Felwood,1448,1414,3
+Un'Goro Crater,1449,1414,3
+Moonglade,1450,1414,3
+Silithus,1451,1414,3
+Winterspring,1452,1414,3
+Stormwind City,1453,1415,3
+Orgrimmar,1454,1414,3
+Ironforge,1455,1415,3
+Thunder Bluff,1456,1414,3
+Darnassus,1457,1414,3
+Undercity,1458,1415,3
+Alterac Valley,1459,1424,6
+Warsong Gulch,1460,1413,6
+Arathi Basin,1461,1417,6
+Mount Hyjal,2482,1414,3
+Zephras Isle,2521,947,3
+Darkspear Islands,2524,1414,6
+Riverglades,2548,1415,3
+Shen'dralas,2652,1414,3

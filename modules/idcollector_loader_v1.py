@@ -5,6 +5,9 @@ from modules.parsing_creature_data import add_creature_data_to_db
 
 dbloc_template = 'dbs/{flavor}/creatureidcollector/v1/'
 
+# Npcs owned or controlled by a player (see CreatureIdCollector:IsUnitPlayerOwned)
+FOLLOWER_CREATURE_TYPE = "follower"
+
 def idcollector_loader_v1(flavor, filename = None):
     dbloc = dbloc_template.format(flavor=flavor)
 
@@ -13,6 +16,7 @@ def idcollector_loader_v1(flavor, filename = None):
         ("","talkinghead"): 0,
         ("","boss"): 0,
         ("","softgroup"): 2,
+        ("","follower"): 2,
         ("",""): 2,
     }
 
@@ -92,6 +96,11 @@ def add_to_db_by_worldtype(db, world_type, creature_data, priority_table):
                 zone_id_int = int(zone_id)
             except ValueError:
                 continue
+
+            # Follower ids (the npc id other players see) only go to zone 0: in a zone where only the follower
+            # was seen, its id would be the zone's first, whatever its priority
+            if creature_type == FOLLOWER_CREATURE_TYPE:
+                zone_id_int = 0
 
             # Build Npc Ids (nids)
             nids = [[],[],[]]

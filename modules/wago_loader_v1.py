@@ -2,6 +2,7 @@ import glob
 
 from libs.serializers.wagocsv_to_obj import wagocsv_to_obj
 from modules.parsing_creature_data import add_creature_data_to_db
+from modules.name_filter import is_banned_name
 
 dbloc_template = 'dbs/{flavor}/wago/v1/'
 
@@ -42,6 +43,9 @@ def wago_parser(wago_raw_objs):
     ids = {}
 
     for wago_raw_obj in wago_raw_objs:
+        if is_banned_name(wago_raw_obj["name"]):
+            continue
+
         # wago raw obj contain only a list of non prioritized nids an dids
         add_creature_data_to_db(ids, wago_raw_obj["name"], 0, [wago_raw_obj["nids"],[],[],], [wago_raw_obj["dids"],[],[],])
 

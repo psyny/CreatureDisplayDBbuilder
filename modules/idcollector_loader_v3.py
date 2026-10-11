@@ -35,6 +35,7 @@ def idcollector_loader_v3(flavor, filename = None):
         ("","talkinghead"): 0,
         ("","boss"): 0,
         ("","softgroup"): 2,
+        ("","follower"): 2,
         ("",""): 1,
     }
 
