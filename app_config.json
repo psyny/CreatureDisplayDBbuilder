@@ -1,0 +1,5 @@
+{
+    "add_user_db": false,
+    "add_wago_db": true,
+    "add_simulator_db": true
+}
